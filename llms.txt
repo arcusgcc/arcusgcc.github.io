@@ -12,5 +12,3 @@ ARCUS LLC is not a law firm; every legal reference it publishes is traced to the
 - [ARCUS Insights](https://arcusgcc.github.io/): news on AI governance and data protection law in the GCC
 - [About](https://arcusgcc.github.io/about.html)
 
-## Recent articles
-- [ARCUS test page: this article checks that the site publishes correctly.](https://arcusgcc.github.io/posts/2026-09-22-arcus-test-page-this-article-checks-that-the-site.html)

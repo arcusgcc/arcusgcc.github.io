@@ -1,0 +1,14 @@
+# ARCUS LLC
+
+> AI governance and data protection for companies in the Gulf: which AI tools a company may use, what may go into them, and who is accountable. Registered in the Qatar Financial Centre.
+
+ARCUS LLC is registered in the Qatar Financial Centre (QFC No. 04428), Doha, Qatar.
+It covers Qatar, Saudi Arabia, United Arab Emirates, Bahrain, Kuwait, Oman.
+Its free questionnaire (about ten minutes) returns a written AI governance exposure report within 48 hours.
+ARCUS LLC is not a law firm; every legal reference it publishes is traced to the issuing authority.
+
+## Key pages
+- [Website](https://arcus.consulting): services and the free questionnaire
+- [ARCUS Insights](https://arcusgcc.github.io/): news on AI governance and data protection law in the GCC
+- [About](https://arcusgcc.github.io/about.html)
+
